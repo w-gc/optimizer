@@ -1,7 +1,7 @@
 # optimizer
 Some optimizer algorithms implemented using pytorch 
 
-'''python
+```python
 # optimizer = SGD(net.parameters(), lr=1e-2)
 # optimizer = MSGD(net.parameters(), lr=0.001, momentum=0.9)
 # optimizer = Nesterov(net.parameters(), lr=0.001, momentum=0.9)
